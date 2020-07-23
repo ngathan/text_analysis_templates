@@ -1,6 +1,6 @@
 # Text Data Templates
 
-This repo contains R scripts for cleaning and preparing text data for further analysis. The templates here would help researchers to further conduct Word2Vec, topic modeling (structural topic modeling, or LDA).   
+This repo contains R scripts for cleaning and preparing text data for further analysis. I will also provide simple templates of some popular text analysis methods such as Word2Vec, topic modeling (structural topic modeling, or LDA).   
 
 In general my text-data-cleaning process is as follows: 
 
@@ -20,3 +20,4 @@ Topic modeling
 1. LDA 
 2. STM 
 
+Word2Vec
