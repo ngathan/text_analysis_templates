@@ -9,3 +9,14 @@ In general my text-data-cleaning process is as follows:
 3. remove language(s) that you don't use in the final analysis 
 4. remove spams 
 
+Description of text data 
+
+1. top words 
+2. bigram 
+3. trigram 
+
+Topic modeling 
+
+1. LDA 
+2. STM 
+
