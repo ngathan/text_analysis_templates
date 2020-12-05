@@ -1,6 +1,6 @@
 # This template is used for cleaning text data from Reddit 
 # I use Pushshift.io to get reddit data. More information here: http://pushshift.io/
-# The output of this process is a data that is ready for topic modeling analysis 
+# The output of this process is a data frame that is ready for topic modeling analysis 
 
 
 install.packages("rjson")
